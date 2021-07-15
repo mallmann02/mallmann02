@@ -13,7 +13,7 @@
 - 📫 How to reach me **leomallmann020302@gmail.com**
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardo-mallmann/)
-[<img src="https://img.shields.io/badge/portifolio-%237159?&style=for-the-badge&logo=github">](https://mallmann02.github.io/)
+<!-- [<img src="https://img.shields.io/badge/portifolio-%237159?&style=for-the-badge&logo=github">](https://mallmann02.github.io/) -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
