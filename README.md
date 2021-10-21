@@ -6,9 +6,9 @@
 
 - 🥰 Passionate coder and volleyball athlete.
 
-- 🔭 I’m currently working on **Recipes App**
+- 🔭 I’m currently working on **BackEnd Project**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Socket.io**
 
 - 📫 How to reach me **leomallmann020302@gmail.com**
 
