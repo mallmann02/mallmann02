@@ -2,13 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallmann02&label=Profile%20views&color=0052d6&style=flat" alt="mallmann02" /> </p>
 
-- 📓 I'm currently studying Full Stack Development at Trybe and Data Science and Artificial Intelligence at PUCRS.
+- 📓 I'm currently studying Full Stack Development at Trybe & Data Science and Artificial Intelligence at PUCRS.
 
 - 🥰 Passionate coder and volleyball athlete.
 
-- 🔭 I’m currently working on **BackEnd Project**
-
-- 🌱 I’m currently learning **Socket.io**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **leomallmann020302@gmail.com**
 
