@@ -6,7 +6,7 @@
 
 - 🥰 Passionate coder and volleyball athlete.
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently working on a code translation project
 
 - 📫 How to reach me **leomallmann020302@gmail.com**
 
