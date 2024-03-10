@@ -1,14 +1,10 @@
-<h1 align="left">Leonardo Mallmann (Mallmann)</h1>
+<h1 align="left">Leonardo Mallmann</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallmann02&label=Profile%20views&color=0052d6&style=flat" alt="mallmann02" /> </p>
 
-- 📓 I'm currently studying Full Stack Development at Trybe & Data Science and Artificial Intelligence at PUCRS.
+- 📓 I'm currently studying Data Science and Artificial Intelligence at PUCRS.
 
-- 🥰 Passionate coder and volleyball athlete.
-
-- 🌱 I’m currently working on a code translation project
-
-- 📫 How to reach me **leomallmann020302@gmail.com**
+- 🌱 I’m currently working at ADP Brazil Labs
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardo-mallmann/)
 <!-- [<img src="https://img.shields.io/badge/portifolio-%237159?&style=for-the-badge&logo=github">](https://mallmann02.github.io/) -->
